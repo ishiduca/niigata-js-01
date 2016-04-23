@@ -1,0 +1,33 @@
+{
+  "name": "niigata-js-01",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiduca/niigata-js-01.git"
+  },
+  "keywords": [
+    "niigatajs"
+  ],
+  "author": "ishiduca@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishiduca/niigata-js-01/issues"
+  },
+  "homepage": "https://github.com/ishiduca/niigata-js-01#readme",
+  "dependencies": {
+    "clazy": "^0.1.2",
+    "co": "^4.6.0",
+    "duplexer2": "^0.1.4",
+    "rx": "^4.1.0",
+    "semaphore": "^1.0.5",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "debug": "^2.2.0"
+  }
+}
